@@ -13,87 +13,20 @@ L'infini ... 1 mètre ...
 La seule chose qui puisse t'empêcher de traverser ce mètre, ce serait un manque de COURAGE.
 
 
-# Maintenant le but de ce repo Github, c'est de faire une étagère de 1 mètre avec quelque chose comme ça :
-Homère - L'Odyssée
+# Maintenant le but de ce repo Github, c'est de créer une étagère de 1 mètre.
 
-Sophocle - Œdipe roi
+Quelle drôle d'idée ! à l'heure de la dématérialisation, un bout d'bois !?
+Oui un bout de bois, quelque chose de concret. Un bout de bois que l'on peut accrochez joliment au mur de sa chambre, de son salon, dans le garage … ou pourquoi pas dans les toilettes :)
+Un bout de bois qui expose fièrement là où l'on en est dans son épreuve pour devenir quelqu'un de juste et qui, en même temps, remet à sa place (et à son échelle !) ce monstre qu'on appelle "Culture".
+Un bout de bois avec un index coulissant (oui un curseur), qui permet de montrer le chemin parcouru et le chemin qu'il nous reste à parcourir.
 
-Platon - La République
+# Une démarche personnelle, bien sûr.
 
-Virgile - L'Énéide
+Ensuite, si j’arrive avec l’aide de plus compétents que moi, à établir la meilleure liste possible pour ce mètre de lecture, avec les références, édition, prix… etc. Chacun pourra choisir de rejoindre ceux qui se sont lancé dans cette aventure individuelle, ce club de gens qui ne se connaissent pas mais qui partage beaucoup.
 
-Dante Alighieri - La Divine Comédie
 
-Miguel de Cervantes - Don Quichotte
 
-William Shakespeare – Hamlet / Roméo et Juliette / Othello
 
-Lao-Tseu – Tao Te Ching
 
-Jonathan Swift - Les Voyages de Gulliver
 
-Voltaire – Candide
 
-René Descartes – Le discours de la méthode
-
-Jean-Jacques Rousseau - Les Confessions
-
-Pascal - Pensées
-
-Johann Wolfgang von Goethe - Faust
-
-Mary Shelley - Frankenstein
-
-Victor Hugo - Les Misérables / Quatrevingt-treize / Ruy Blas
-
-Nietzche – Ainsi parlait Zarathoustra 
-
-Fiodor Dostoïevski - Crime et Châtiment
-
-Léon Tolstoï - Guerre et Paix
-
-Emily Brontë - Les Hauts de Hurlevent
-
-Herman Melville - Moby Dick
-
-Gustave Flaubert - Madame Bovary / Bel ami / 
-
-Mark Twain - Les Aventures de Huckleberry Finn
-
-Marcel Proust - À l'ombre des jeunes filles en fleurs
-
-Franz Kafka - Le Procès
-
-James Joyce - Ulysse
-
-Louis Ferdinand Céline – Le voyage au bout de la nuit
-
-George Orwell - 1984
-
-Aldous Huxley - Lemeilleur des mondes / la philosophia perennis
-
-Albert Camus - L'Étranger
-
-Gabriel García Márquez - Cent ans de solitude
-
-Harper Lee - Ne tirez pas sur l'oiseau moqueur
-
-Milan Kundera - L'Insoutenable Légèreté de l'être
-
-J.R.R. Tolkien - Le Seigneur des Anneaux
-
-Margaret Atwood - La Servante écarlate
-
-Umberto Eco - Le Nom de la rose / Le pendule de Foucault
-
-Paulo Coelho - L'Alchimiste
-
-Fyodor Dostoevsky - Les Frères Karamazov
-
-Simone de Beauvoir - Le Deuxième Sexe
-
-Jean-Paul Sartre - La Nausée / Les mots / L’existentialisme est un humanisme
-
-Ernest Hemingway - Le Vieil Homme et la mer / Pour qui sonne le glas
-
-Vladimir Nabokov - Lolita
