@@ -15,43 +15,85 @@ La seule chose qui puisse t'empêcher de traverser ce mètre, ce serait un manqu
 
 # Maintenant le but de ce repo Github, c'est de faire une étagère de 1 mètre avec quelque chose comme ça :
 Homère - L'Odyssée
+
 Sophocle - Œdipe roi
+
 Platon - La République
+
 Virgile - L'Énéide
+
 Dante Alighieri - La Divine Comédie
+
 Miguel de Cervantes - Don Quichotte
+
 William Shakespeare – Hamlet / Roméo et Juliette / Othello
+
 Lao-Tseu – Tao Te Ching
+
 Jonathan Swift - Les Voyages de Gulliver
+
 Voltaire – Candide
+
 René Descartes – Le discours de la méthode
+
 Jean-Jacques Rousseau - Les Confessions
+
 Pascal - Pensées
+
 Johann Wolfgang von Goethe - Faust
+
 Mary Shelley - Frankenstein
+
 Victor Hugo - Les Misérables / Quatrevingt-treize / Ruy Blas
+
 Nietzche – Ainsi parlait Zarathoustra 
+
 Fiodor Dostoïevski - Crime et Châtiment
+
 Léon Tolstoï - Guerre et Paix
+
 Emily Brontë - Les Hauts de Hurlevent
+
 Herman Melville - Moby Dick
+
 Gustave Flaubert - Madame Bovary / Bel ami / 
+
 Mark Twain - Les Aventures de Huckleberry Finn
+
 Marcel Proust - À l'ombre des jeunes filles en fleurs
+
 Franz Kafka - Le Procès
+
 James Joyce - Ulysse
+
 Louis Ferdinand Céline – Le voyage au bout de la nuit
+
 George Orwell - 1984
+
+Aldous Huxley - Lemeilleur des mondes / la philosophia perennis
+
 Albert Camus - L'Étranger
+
 Gabriel García Márquez - Cent ans de solitude
+
 Harper Lee - Ne tirez pas sur l'oiseau moqueur
+
 Milan Kundera - L'Insoutenable Légèreté de l'être
+
 J.R.R. Tolkien - Le Seigneur des Anneaux
+
 Margaret Atwood - La Servante écarlate
+
 Umberto Eco - Le Nom de la rose / Le pendule de Foucault
+
 Paulo Coelho - L'Alchimiste
+
 Fyodor Dostoevsky - Les Frères Karamazov
+
 Simone de Beauvoir - Le Deuxième Sexe
+
 Jean-Paul Sartre - La Nausée / Les mots / L’existentialisme est un humanisme
+
 Ernest Hemingway - Le Vieil Homme et la mer
+
 Vladimir Nabokov - Lolita
