@@ -13,54 +13,45 @@ L'infini ... 1 mètre ...
 La seule chose qui puisse t'empêcher de traverser ce mètre, ce serait un manque de COURAGE.
 
 
-
-Homère - L'Iliade
+# Maintenant le but de ce repo Github, c'est de faire une étagère de 1 mètre avec quelque chose comme ça
 Homère - L'Odyssée
 Sophocle - Œdipe roi
 Platon - La République
 Virgile - L'Énéide
 Dante Alighieri - La Divine Comédie
-Geoffrey Chaucer - Les Contes de Canterbury
 Miguel de Cervantes - Don Quichotte
-William Shakespeare - Hamlet
-William Shakespeare - Roméo et Juliette
-John Milton - Le Paradis perdu
+William Shakespeare – Hamlet / Roméo et Juliette / Othello
+Lao-Tseu – Tao Te Ching
 Jonathan Swift - Les Voyages de Gulliver
-Voltaire - Candide
+Voltaire – Candide
+René Descartes – Le discours de la méthode
 Jean-Jacques Rousseau - Les Confessions
+Pascal - Pensées
 Johann Wolfgang von Goethe - Faust
-Jane Austen - Orgueil et Préjugés
 Mary Shelley - Frankenstein
-Victor Hugo - Les Misérables
-Charles Dickens - Les Grandes Espérances
+Victor Hugo - Les Misérables / Quatrevingt-treize / Ruy Blas
+Nietzche – Ainsi parlait Zarathoustra 
 Fiodor Dostoïevski - Crime et Châtiment
 Léon Tolstoï - Guerre et Paix
 Emily Brontë - Les Hauts de Hurlevent
 Herman Melville - Moby Dick
-Gustave Flaubert - Madame Bovary
+Gustave Flaubert - Madame Bovary / Bel ami / 
 Mark Twain - Les Aventures de Huckleberry Finn
-Marcel Proust - À la recherche du temps perdu
+Marcel Proust - À l'ombre des jeunes filles en fleurs
 Franz Kafka - Le Procès
 James Joyce - Ulysse
-Virginia Woolf - Mrs Dalloway
+Louis Ferdinand Céline – Le voyage au bout de la nuit
 George Orwell - 1984
 Albert Camus - L'Étranger
 Gabriel García Márquez - Cent ans de solitude
-Toni Morrison - Beloved
 Harper Lee - Ne tirez pas sur l'oiseau moqueur
 Milan Kundera - L'Insoutenable Légèreté de l'être
-Chinua Achebe - Le Monde s'effondre
 J.R.R. Tolkien - Le Seigneur des Anneaux
-George R.R. Martin - Le Trône de fer
 Margaret Atwood - La Servante écarlate
-Orhan Pamuk - Neige
-Umberto Eco - Le Nom de la rose
+Umberto Eco - Le Nom de la rose / Le pendule de Foucault
 Paulo Coelho - L'Alchimiste
 Fyodor Dostoevsky - Les Frères Karamazov
 Simone de Beauvoir - Le Deuxième Sexe
-Jean-Paul Sartre - La Nausée
+Jean-Paul Sartre - La Nausée / Les mots / L’existentialisme est un humanisme
 Ernest Hemingway - Le Vieil Homme et la mer
-Homer - Iliad and Odyssey (combined)
-Emily Dickinson - Complete Poems
-Henri Charrière - Papillon
 Vladimir Nabokov - Lolita
