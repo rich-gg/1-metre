@@ -13,7 +13,7 @@ L'infini ... 1 mètre ...
 La seule chose qui puisse t'empêcher de traverser ce mètre, ce serait un manque de COURAGE.
 
 
-# Maintenant le but de ce repo Github, c'est de faire une étagère de 1 mètre avec quelque chose comme ça
+# Maintenant le but de ce repo Github, c'est de faire une étagère de 1 mètre avec quelque chose comme ça :
 Homère - L'Odyssée
 Sophocle - Œdipe roi
 Platon - La République
