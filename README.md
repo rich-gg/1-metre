@@ -20,7 +20,7 @@ Oui un bout de bois, quelque chose de concret. Un bout de bois que l'on peut acc
 Un bout de bois qui expose fièrement là où l'on en est dans son épreuve pour devenir quelqu'un de juste et qui, en même temps, remet à sa place (et à son échelle !) ce monstre qu'on appelle "Culture".
 Un bout de bois avec un index coulissant (oui un curseur), qui permet de montrer le chemin parcouru et le chemin qu'il nous reste à parcourir.
 
-# Une démarche personnelle, bien sûr, avec nous.
+# Une défis personnelle, bien sûr, avec nous.
 
 Ensuite, si j’arrive avec l’aide de plus compétents que moi, à établir la meilleure liste possible pour ce mètre de lecture, avec les références, édition, prix… etc. Chacun pourra choisir de rejoindre ceux qui se sont lancé dans cette aventure individuelle, ce club de gens qui ne se connaissent pas mais qui partage beaucoup.
 
