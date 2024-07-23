@@ -94,6 +94,6 @@ Simone de Beauvoir - Le Deuxième Sexe
 
 Jean-Paul Sartre - La Nausée / Les mots / L’existentialisme est un humanisme
 
-Ernest Hemingway - Le Vieil Homme et la mer
+Ernest Hemingway - Le Vieil Homme et la mer / Pour qui sonne le glas
 
 Vladimir Nabokov - Lolita
